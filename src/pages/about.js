@@ -6,7 +6,7 @@ import aboutPhoto from "../../static/images/projects-3.jpg"
 const About = () => {
   aboutPhoto =
     "https://res.cloudinary.com/dkgrjtewg/image/upload/v1618700014/portfolio-web/projects-4_ci44rr.jpg"
-  const title = "about Ægir"
+  const title = "about paula"
   const info = "Here is some information about how I am a great developer"
   const stack = [
     {
